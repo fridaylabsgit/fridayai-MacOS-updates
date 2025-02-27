@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://fridaylabsgit.github.io/fridayai-MacOS-updates/appcast.xml" length="965945" type="application/octet-stream" sparkle:edSignature="dLfPYA3uekbPEn4ALoMcdNAVok1w4AXSlj3mxxPbU7Rj3XS8IvurJxYn8UObAHv66KA7csqvQV7aLxVsQBmLCA=="/>
+            <enclosure url="https://fridaylabsgit.github.io/fridayai-MacOS-updates/FridayAI_1.1.zip" length="965945" type="application/octet-stream" sparkle:edSignature="dLfPYA3uekbPEn4ALoMcdNAVok1w4AXSlj3mxxPbU7Rj3XS8IvurJxYn8UObAHv66KA7csqvQV7aLxVsQBmLCA=="/>
         </item>
     </channel>
 </rss>
