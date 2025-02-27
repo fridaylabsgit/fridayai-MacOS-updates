@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.1" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>FridayAI</title>
         <item>
-            <title>1.0</title>
+            <title>1.1</title>
             <pubDate>Wed, 26 Feb 2025 19:02:33 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="file:///Users/rickyplummer/Updates/Updates/FridayAI_1.1.zip" length="965945" type="application/octet-stream" sparkle:edSignature="dLfPYA3uekbPEn4ALoMcdNAVok1w4AXSlj3mxxPbU7Rj3XS8IvurJxYn8UObAHv66KA7csqvQV7aLxVsQBmLCA=="/>
+            <enclosure url="<enclosure url="https://fridaylabsgit.github.io/fridayai-MacOS-updates/FridayAI_1.1.zip" ... />" length="965945" type="application/octet-stream" sparkle:edSignature="dLfPYA3uekbPEn4ALoMcdNAVok1w4AXSlj3mxxPbU7Rj3XS8IvurJxYn8UObAHv66KA7csqvQV7aLxVsQBmLCA=="/>
         </item>
     </channel>
 </rss>
